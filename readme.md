@@ -24,3 +24,10 @@
 		* 
 
 # VS Studio demonstration
+* Using the git changes window, we can use a GUI instead of command line for git commits
+* Find in view -> git changes
+* 
+
+# Branching
+* Create new branch: git branch branchname
+* Move to new branch: git checkout branchname
