@@ -36,3 +36,5 @@
 * git checkout main // to go back to main branch
 * git merge branchname // to merge branches
 * git push origin main // to push merge
+* git branch -d branchname // to delete unneeded branch
+* git branch -D branchname // force delete branch even if there are unmerged changes
