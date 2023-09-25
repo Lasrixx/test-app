@@ -31,3 +31,4 @@
 # Branching
 * Create new branch: git branch branchname
 * Move to new branch: git checkout branchname
+* Push to new branch: git push --set-upstream origin branchname
