@@ -32,3 +32,7 @@
 * Create new branch: git branch branchname
 * Move to new branch: git checkout branchname
 * Push to new branch: git push --set-upstream origin branchname
+## To merge branches
+* git checkout main // to go back to main branch
+* git merge branchname // to merge branches
+* git push origin main // to push merge
