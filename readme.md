@@ -21,3 +21,6 @@
 		* This will add all changes in the current directory but not the sub-directory
 	* git add -all OR git add -A
 		* This will add hidden files (usually beginning with .) but try not to add hidden files
+		* 
+
+# VS Studio demonstration
